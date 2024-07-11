@@ -32,7 +32,7 @@ Tenho 23 anos e sou de São Paulo. Atualmente estou em transição de área, sem
     <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 
-![Snake animation](https://github.com/marianefernandes07/marianefernandes07/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marianefernandes07/marianefernandes07/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **marianefernandes07/marianefernandes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
